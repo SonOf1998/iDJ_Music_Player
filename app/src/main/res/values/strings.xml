@@ -3,4 +3,9 @@
     <string name="tvLeft">Left balance</string>
     <string name="tvRight">Right balance</string>
 
+    <string name="albumCover">Album Cover</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
